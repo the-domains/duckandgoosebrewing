@@ -1,0 +1,28 @@
+name: DuckandGooseBrewing
+favicon: null
+layout_spectrum: 0.9061032587196678
+typography_spectrum: 0.32452774071134627
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2783360327593982
+  lightness: 0.11638170690275729
+  saturation: 0.6671324407216161
+  rhythmicContrast: 0.4901072271168232
+purpose: []
