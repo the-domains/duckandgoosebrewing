@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[DuckandGooseBrewing]]></title>
+        <description><![CDATA[DuckandGooseBrewing]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 10 Dec 2015 18:14:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Duck and Goose Brewing]]></title>
+            <description><![CDATA[<h1>Duck and Goose Brewing</h1>]]></description>
+            <link>undefinedduck-and-goose-brewing/index.html</link>
+            <guid isPermaLink="false">9062292b-a819-4137-8f4f-c526c61b2d4e</guid>
+            <pubDate>Thu, 10 Dec 2015 18:14:47 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
